@@ -50,7 +50,7 @@
     <div class="container mx-auto px-4 flex items-center justify-between">
       <div class="flex items-center space-x-4">
         <img src="{{ asset('images/ic_hadirin.png') }}" alt="Logo" class="w-12 h-12" />
-        <h1 class="text-xl font-bold text-[#001F3F] dark:text-yellow-400">Hadirin</h1>
+        <h1 class="text-xl font-bold text-[#001F3F] dark:text-yellow-400">Hadirin App</h1>
       </div>
     </div>
   </header>
@@ -63,10 +63,10 @@
     <div class="absolute inset-0 bg-yellow-100 bg-opacity-60 backdrop-blur-sm"></div>
     <div class="relative container mx-auto px-4 text-center" data-aos="fade-up">
       <h1 class="text-3xl md:text-5xl font-bold leading-tight mb-4 text-[#001F3F] dark:text-yellow-400">
-        Hadirin Students
+        Hadirin
       </h1>
       <p class="text-base md:text-lg mb-6 max-w-2xl mx-auto text-black dark:text-gray-300">
-        Platform digital untuk mencatat kehadiran siswa secara efisien dan modern.
+        Platform digital untuk mencatat kehadiran guru secara efisien dan modern.
       </p>
       <a
         href="#features"
@@ -130,7 +130,7 @@
       <div class="w-24 h-1 bg-[#FFD700] mx-auto mb-6"></div>
       <p class="text-base text-gray-700 dark:text-gray-300">
         Hadirin adalah aplikasi berbasis web yang dikembangkan oleh siswa SMKN 1 Kota Bengkulu untuk
-        mempermudah proses pencatatan kehadiran siswa. Dengan fitur-fitur seperti pengelolaan data kehadiran,
+        mempermudah proses pencatatan kehadiran guru. Dengan fitur-fitur seperti pengelolaan data kehadiran,
         pencetakan laporan, dan informasi terkini, Hadirin bertujuan untuk meningkatkan efisiensi dan
         transparansi dalam manajemen kehadiran di lingkungan pendidikan.
       </p>
